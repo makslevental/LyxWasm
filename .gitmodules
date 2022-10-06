@@ -1,0 +1,9 @@
+[submodule "lyx"]
+	path = lyx
+	url = git@github.com:makslevental/lyx.git
+[submodule "emsdk"]
+	path = emsdk
+	url = https://github.com/emscripten-core/emsdk.git
+[submodule "qt5"]
+	path = qt5
+	url = git://code.qt.io/qt/qt5.git
